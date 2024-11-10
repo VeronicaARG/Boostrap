@@ -1,0 +1,44 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background: url(vicky2.jpg);
+    size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    margin-bottom: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.tittle{
+   background-color: peru;
+   color: red;
+   border: px solid magenta;
+   border-radius: 4px;
+   padding: 10px;
+   margin-bottom: 70px;
+}
+div{
+    background-color: peru;
+    border: px solid magenta;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+img{
+    background-color: red;
+    border: px solid magenta;
+    border-width: 1000px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-bottom: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+

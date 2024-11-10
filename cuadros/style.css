@@ -1,0 +1,38 @@
+table , tr, td {
+    border: 1px solid black;
+}
+.primera{
+    background-color: red;
+}
+.segunda{
+    background-color: greenyellow;
+}
+.tercero{
+    border: 1px solid black;
+    width: 100%;
+    border-color: white;
+}
+.x{
+    background-color: red;
+}
+.cuarto{
+    border: 1px solid black;
+    width: 100%;
+    background-color: white;
+    border-color: white;
+}
+.f{
+    background-color: green;
+}
+.quinto{
+    border: 1px solid black;
+    width: 100%;
+    border-color: white;
+}
+tbody:active {background-color: blueviolet;}
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%;
+}

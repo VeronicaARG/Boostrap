@@ -1,0 +1,52 @@
+.body{
+    background-color: aqua;
+}
+.p-3bg-infobg-opacity-10borderborder-infoborder-start-0rounded-end{
+    background-color: solid rgb(255, 255, 255);
+    border-radius: 50px;
+    padding: 70px;
+    margin: 10px;  
+}
+.col-sm-1{
+    background-color: white;
+    border: px solid magenta;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: 250px;
+    margin-right: auto;
+    width: 27%;
+}
+#btn-light{
+    border-radius: 100px;
+}
+img{
+    border-radius: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.textomi{
+    background-color: solid rgb(177, 17, 17);
+    border: solid pink;
+    border-radius: 50px;
+    padding: 70px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%; 
+}
+.partmi{
+    background-color: solid rgb(177, 17, 17);
+    border: solid pink;
+    border-radius: 50px;
+    padding: 70px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%; 
+}

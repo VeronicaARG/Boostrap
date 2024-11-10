@@ -1,0 +1,34 @@
+h1 {
+    background-color: cyan;
+}
+
+h1:hover {color:red;
+        background-color: blue;
+        border-radius: 10px;
+}
+
+h1:active {background-color: rgb(212, 235, 60);}
+
+.formulario {
+    background-color: rgb(212, 235, 60);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.formulario:hover{
+    background-color: rgb(235, 60, 229);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.formulario:active {
+    background-color: rgb(19, 250, 220);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.formulario:focus {border: 5px solid gold;
+width: 1000px;}
