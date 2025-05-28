@@ -1,0 +1,39 @@
+h1 {
+    color: orange;
+}
+h2{
+    color: blueviolet;
+}
+li{
+    color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#textoLorem{
+    color: blue;
+    font-weight: bold;
+}
+.textoOtroColor {
+    color: red;
+}
+a:link{
+    color: green;
+}
+
+a:active{
+    background-color: blueviolet;
+    color: palevioletred;
+}
+a:visited {
+    color: brown;
+}
+
+a:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 100px;
+}
+
+img{
+    border: px solid rgb(102, 0, 255);
+    padding: 10px;
+}
